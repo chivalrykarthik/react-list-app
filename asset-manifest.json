@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-list-app/static/css/main.13e91b60.chunk.css",
+    "main.js": "/react-list-app/static/js/main.4ad3d6cf.chunk.js",
+    "main.js.map": "/react-list-app/static/js/main.4ad3d6cf.chunk.js.map",
+    "runtime-main.js": "/react-list-app/static/js/runtime-main.380d2679.js",
+    "runtime-main.js.map": "/react-list-app/static/js/runtime-main.380d2679.js.map",
+    "static/css/2.a62317bb.chunk.css": "/react-list-app/static/css/2.a62317bb.chunk.css",
+    "static/js/2.6de66b44.chunk.js": "/react-list-app/static/js/2.6de66b44.chunk.js",
+    "static/js/2.6de66b44.chunk.js.map": "/react-list-app/static/js/2.6de66b44.chunk.js.map",
+    "index.html": "/react-list-app/index.html",
+    "precache-manifest.ce03768b5db18b9f48bc38c3e3df1022.js": "/react-list-app/precache-manifest.ce03768b5db18b9f48bc38c3e3df1022.js",
+    "service-worker.js": "/react-list-app/service-worker.js",
+    "static/css/2.a62317bb.chunk.css.map": "/react-list-app/static/css/2.a62317bb.chunk.css.map",
+    "static/css/main.13e91b60.chunk.css.map": "/react-list-app/static/css/main.13e91b60.chunk.css.map",
+    "static/media/font-awesome.min.css": "/react-list-app/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.380d2679.js",
+    "static/css/2.a62317bb.chunk.css",
+    "static/js/2.6de66b44.chunk.js",
+    "static/css/main.13e91b60.chunk.css",
+    "static/js/main.4ad3d6cf.chunk.js"
+  ]
+}
